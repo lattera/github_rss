@@ -1,0 +1,13 @@
+{
+    "polltime": 5,
+    "projects": [
+        {
+            "name": "freebsd/freebsd",
+            "branch": "master"
+        },
+        {
+            "name": "freebsd/freebsd-ports",
+            "branch": "master"
+        }
+    ]
+}
